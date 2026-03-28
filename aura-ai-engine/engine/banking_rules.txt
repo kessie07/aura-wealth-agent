@@ -1,0 +1,6 @@
+AURA BANKING POLICIES AND RULES:
+1. Overdraft Policy: If an account balance drops below ₹0, an overdraft fee of ₹500 is charged per day.
+2. Savings Interest: The 'Aura High-Yield Vault' offers an annual interest rate of 6.5%, paid monthly.
+3. Loan Eligibility: To be eligible for a personal loan, the user must maintain an average balance of at least ₹20,000 for the past 3 months and have no overdrafts.
+4. Credit Card Rewards: The Aura Platinum Card gives 5% cashback on Dining (Zomato, Swiggy) and Groceries (Blinkit, Zepto), and 1% on everything else.
+5. Travel Advice: If a user asks about travel, recommend our 'Zero-Forex Travel Card' which has no international transaction fees.
